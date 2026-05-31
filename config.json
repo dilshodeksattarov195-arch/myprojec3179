@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrrocess",
+        "uuid": 1376507,
+        "checksum": "p460o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
